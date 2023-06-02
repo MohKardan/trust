@@ -183,6 +183,14 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":402},
 	"sourceSize": {"w":302,"h":402}
+},
+"iterated_peep0023":
+{
+	"frame": {"x":1570,"y":1246,"w":302,"h":402},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":402},
+	"sourceSize": {"w":302,"h":402}
 }},
 "meta": {
 	"app": "Adobe Animate",
