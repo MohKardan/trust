@@ -374,7 +374,7 @@ SLIDES.push({
       y: 471,
       size: "long",
       text_id: "goto_dashboard",
-      message: "slideshow/scratch",
+      message: "www.google.com",
     });
   },
   onend: function (self) {
